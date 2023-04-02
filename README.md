@@ -8,7 +8,7 @@ I found this video: https://youtu.be/e_DCb1XPWS0
 It's a way that I trained my voice model, using google colab! (Planning to use my own GPU since I realized mine is also capable!)
 --Google colab from the video isn't working!!! 
 
-Use this modified one: https://drive.google.com/drive/folders/1x4H0Sfdoh3rlPAitiCEVbCYINEk3o5W_?usp=share_link
+Use this modified one: https://drive.google.com/drive/folders/1B2ZiSnMjNdcQiP8i2DkX7fCo_q6fy8jB?usp=share_link
 (Find the file named "Train_Coqui_AI_Voice_Model.ipynb" and open it up on google colab!)
 
 So, please as a small request, we can expand this into a bigger pile of casts from the sonic characters! This way no need to wait for queue and then we can all go back to making TTS videos without any single problems! One small voice model open to everyone can be used for everything, for I had faith in open source tools.
