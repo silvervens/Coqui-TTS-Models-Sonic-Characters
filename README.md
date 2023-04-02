@@ -19,3 +19,6 @@ Still waiting for CoquiTTS gui to be made tho :(
 
 	Completed Models:
 	Silver the hedgehog (Pete Capella)
+
+  If you don't know how to run coqui-TTS models, check the CoquiTTS repository.
+  https://github.com/coqui-ai/TTS
