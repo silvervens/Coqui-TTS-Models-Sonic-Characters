@@ -1,7 +1,7 @@
 # Coqui-Sonic-Characters-TTS
-FOR NOW I ONLY GOT A TRAINED SILVER VOICE!!! (BY PETE CAPELLA)
-
 Instead of using other greedy "AI" websites, why not run it on your PC! You can use the "issues" to post your model here after training it via coqui TTS!!! Make sure to list which is trained (Tacotron, VITS, and more) including which one have a vocoder or NOT!
+
+
 
 I found this video: https://youtu.be/e_DCb1XPWS0
 
@@ -16,3 +16,6 @@ So, please as a small request, we can expand this into a bigger pile of casts fr
 Still waiting for CoquiTTS gui to be made tho :( 
 
 [Where u can load models too]
+
+	Completed Models:
+	Silver the hedgehog (Pete Capella)
